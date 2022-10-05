@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ <html> 
+     <head>
+	       <title></title
+		   <meta charset="utf-8*"/>
+		   <meta name="keywords" content="" />
+		   <meta name="descrıptıon" content="." />
+	</head>
+    <body>
+        merhbab dunya<br />
+        kıs gelıyor
+		<p><p>
+		<p><p>
+		<hr/> 
+        <!-- bu kısımlara yorum yazabılırım-->
+        <ol>
+        <li> </li>
+        <li> </li>
+        <ol>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
